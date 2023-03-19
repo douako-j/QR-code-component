@@ -49,7 +49,7 @@ Mobile
 - Website [nkoyin.fr](http://www.nkoyin.fr/)
 - GitHub [@douako-j](https://github.com/douako-j)
 - Instagram [@nkoyinn](https://www.instagram.com/nkoyinn/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@douako-j](https://www.frontendmentor.io/profile/douako-j)
 
 ## Acknowledgments
 
